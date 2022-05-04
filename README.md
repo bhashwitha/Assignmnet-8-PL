@@ -1,1 +1,1 @@
-Run program twice if it not working when run first time
+Run program twice if it is not working when run first time
